@@ -1,0 +1,3 @@
+streamlit
+googlegenerativeai
+pdf2image
